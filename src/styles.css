@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.status-chip {
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: aqua;
+  border-radius: 25px;
+}
+
+#divToPrint {
+  font-family: "nimbus-sans";
+}
